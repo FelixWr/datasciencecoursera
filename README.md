@@ -1,2 +1,2 @@
 # datasciencecoursera
-My github repository for "Data Science" on Coursera.org
+Hello, my fellow courseras!
